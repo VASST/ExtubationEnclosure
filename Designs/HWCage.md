@@ -62,5 +62,10 @@ Repeat but assembly corners such that they form a mirror of the right side.
 
 <img src="../Images/side_join_assembly.png" width="250">
 
+### Optional Pieces
+1. [Air/suction port corner bracket]()
+1. [Air/suction port snap-on bracket]()
+1. [S-hooks]()
+
 ## European
 Help! Smallest rigid pipe I could find was 40mm. Do all europeans use flexible supply pipe?
