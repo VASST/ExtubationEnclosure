@@ -67,5 +67,5 @@ Repeat but assembly corners such that they form a mirror of the right side.
 1. [Air/suction port snap-on bracket]()
 1. [S-hooks]()
 
-## European
-Help! Smallest rigid pipe I could find was 40mm. Do all europeans use flexible supply pipe?
+## European/Metric
+For those who work with the metric system, replace all 3/4" pipe and fittings with DN 20mm rigid PVC pipe or nearest equivalent that is easily sourced near you.
