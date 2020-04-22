@@ -63,9 +63,19 @@ Repeat but assembly corners such that they form a mirror of the right side.
 <img src="../Images/side_join_assembly.png" width="250">
 
 ### Optional Pieces
-1. [Air/suction port corner bracket]()
-1. [Air/suction port snap-on bracket]()
-1. [S-hooks]()
+1. [gas_port_IO_corner_US](../Models/gas_port_IO_corner_US.stl)
+1. [gas_port_IO_snapOn_US](../Models/gas_port_IO_snapOn_US.stl)
+1. S-hooks
+    1. [S_hook_0.6in_US](../Models/S_hook_0.6in_US.stl)
+    1. [S_hook_0.787in_US](../Models/S_hook_0.787in_US.stl)
+    1. [S_hook_0.787in_closed_US](../Models/S_hook_0.787in_closed_US.stl)
+    1. [S_hook_1.181in_US](../Models/S_hook_1.181in_US.stl)
 
 ## European/Metric
 For those who work with the metric system, replace all 3/4" pipe and fittings with DN 20mm rigid PVC pipe or nearest equivalent that is easily sourced near you.
+
+### Optional Pieces
+S-hooks can be printed at scale: 1.0499 (20/19.05) to fit nicely on DN 20mm.
+
+1. [gas_port_IO_corner_EU](../Models/gas_port_IO_corner_EU.stl)
+1. [gas_port_IO_snapOn_EU](../Models/gas_port_IO_snapOn_EU.stl)
