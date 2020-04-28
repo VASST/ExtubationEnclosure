@@ -19,6 +19,5 @@ Cubillos, J. et al.](https://bjanaesthesia.org/article/S0007-0912(20)30274-9/ful
   - [Barrier Enclosure during Endotracheal Intubation](https://www.nejm.org/doi/full/10.1056/NEJMc2007589)
 
 # Designs
-* [3D Printed Rib-cage](./Designs/Ribcage.md)
-* [3D Printed Cage](./Designs/3DCage.md)
-* ["Hardware Store" Cage](./Designs/HWCage.md)
+* [Fully 3D Printed Cage](./Designs/Ribcage.md)
+* [PVC Pipe Cage](./Designs/HWCage.md)
