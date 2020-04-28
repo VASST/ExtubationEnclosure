@@ -2,6 +2,11 @@
 
 This page details the design, materials, and construction of an extubation enclosure for hospital settings. It has been developed in a partnership between physicians at University Hospital, London Health Sciences Centre (LHSC) and engineers at Robarts Research Institute (RRI), Western University.
 
+## Publication
+This work can be read in detail here:
+* [A multipurpose portable negative air flow isolation chamber for aerosol generating medical procedures during the COVID-19 pandemic
+Cubillos, J. et al.](https://bjanaesthesia.org/article/S0007-0912(20)30274-9/fulltext)
+
 ## Contacts
 - Adam Rankin (arankin -at- robarts.ca), RRI, hardware
 - John Moore (jmoore -at- robarts.ca), RRI, hardware
