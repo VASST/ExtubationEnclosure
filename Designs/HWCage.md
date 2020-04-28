@@ -1,7 +1,7 @@
 [<img src="../Images/home.png" width="18"> - Main Page](../README.md)
 
-# "Hardware Store" Cage
-This design is intended to be built using strictly parts that would most likely be available at your local hardware store. A number of 3D printed pieces are included as optional enhancements, but are not necessary for the basic structure.
+# PVC Pipe Cage
+This design is intended to be built using common plumbing parts that would most likely be available at your local hardware store. A number of 3D printed pieces are included as optional enhancements, but are not necessary for the basic structure.
 
 ## Video
 A video of the cage in action can be seen at [https://youtu.be/DAdx9pdc0is](https://youtu.be/DAdx9pdc0is)
