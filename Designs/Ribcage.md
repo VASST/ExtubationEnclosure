@@ -17,6 +17,7 @@ This design is intended to be built using 3D printed, modular parts. Two example
 - [VentilatorFrame_BaseLong](../Models/VentilatorFrame_BaseLong.stl)
 - [VentilatorFrame_BaseShort](../Models/VentilatorFrame_BaseShort.stl)
 - [VentilatorFrame_VerticalPost](../Models/VentilatorFrame_VerticalPost.stl)
+- [VentilatorFrame_VerticalExtension](../Models/VentilatorFrame_VerticalExtension.stl)
 - [VentilatorFrame_HalfArch](../Models/VentilatorFrame_HalfArch.stl)
 - [VentilatorFrame_WholeArch](../Models/VentilatorFrame_WholeArch.stl)
 - [VentilatorFrame_ArchSpacer](../Models/VentilatorFrame_ArchSpacer.stl)
@@ -35,9 +36,10 @@ This design features an IO port and easy access to the face at the expense of pa
 
 #### Quantities
 - 6@ VentilatorFrame_VerticalPost
+- 2@ VentilatorFrame_VerticalExtension (optional, repeat as many as necessary)
 - 2@ VentilatorFrame_IOPort
 - 2@ VentilatorFrame_HalfArch
-- 1@ VentilatorFrame_ArchSpacer (repeat as many as necessary)
+- 1@ VentilatorFrame_ArchSpacer (optional, repeat as many as necessary)
 - 2@ VentilatorFrame_BaseShort
 - 2@ VentilatorFrame_BaseLong
 
@@ -50,7 +52,8 @@ This design features an IO port and easy access to the face at the expense of pa
 
 #### Quantities
 - 6@ VentilatorFrame_VerticalPost
+- 6@ VentilatorFrame_VerticalExtension (optional, repeat as many as necessary)
 - 6@ VentilatorFrame_HalfArch
-- 3@ VentilatorFrame_ArchSpacer (repeat as many as necessary)
+- 3@ VentilatorFrame_ArchSpacer (optional, repeat as many as necessary)
 - 2@ VentilatorFrame_BaseShort
 - 2@ VentilatorFrame_BaseLong
