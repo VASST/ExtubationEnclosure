@@ -1,6 +1,6 @@
 [<img src="../Images/home.png" width="18"> - Main Page](../README.md)
 
-# 3D Printed Rib Cage
+# Fully 3D Printed Cage
 This design is intended to be built using 3D printed, modular parts. Two example designs are presented here, but the idea is that any combination can be used as needed.
 
 ## Materials
