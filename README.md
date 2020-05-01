@@ -1,6 +1,6 @@
-# Extubation Enclosure
+# Aerosol Containment Enclosure
 
-This page details the design, materials, and construction of an extubation enclosure for hospital settings. It has been developed in a partnership between physicians at University Hospital, London Health Sciences Centre (LHSC) and engineers at Robarts Research Institute (RRI), Western University.
+This page details the design, materials, and construction of an aerosol containment enclosure for hospital settings. It has been developed in a partnership between physicians at University Hospital, London Health Sciences Centre (LHSC) and engineers at Robarts Research Institute (RRI), Western University.
 
 ## Publication
 This work can be read in detail here:
