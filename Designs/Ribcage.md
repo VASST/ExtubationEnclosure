@@ -44,7 +44,7 @@ This design features an IO port and easy access to the face at the expense of pa
 - 2@ VentilatorFrame_BaseLong
 
 ### Example 2
-This design features an IO port and easy access to the face at the expense of patient comfort
+This configuration provides more room over the patients face, but has limited access from the sides.
 
 #### Preview
 
