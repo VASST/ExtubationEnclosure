@@ -10,6 +10,9 @@ This design is intended to be built using 3D printed, modular parts. Two example
 - Hardware:
   - Use any of: M5x15, 10-24x5/8" or 10-32x5/8" with corresponding nylon lock-nut
 
+## CAD
+- [VentilatorFrame-01.4.stp](../Models/VentilatorFrame-01.4.stp)
+
 ## Printing
 - Parts are designed to be printed on hobby grade 3D printers, use settings as recommended by your printer and filament guidelines
 
